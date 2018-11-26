@@ -1,4 +1,3 @@
-# TMM2014
 % ========================================================================
 % Relaxed Collaborative Representation, Version 1.0
 % Copyright(c) 2014 Qianqian Xu, Jiechao Xiong, Qingming Huang, Yuan Yao
@@ -20,7 +19,7 @@
 %
 % Please refer to the following paper:
 %
-% Qianqian Xu, Jiechao Xiong, Qingming Huang, and Yuan Yao, ‚ÄúOnline HodgeRank on Random Graphs for Crowdsourceable QoE Evaluation‚Äù, IEEE Transactions on Multimedia, vol. 16, no. 2, pp. 373-386, Feb. 2014.
+% Qianqian Xu, Jiechao Xiong, Qingming Huang, and Yuan Yao, °∞Online HodgeRank on Random Graphs for Crowdsourceable QoE Evaluation°±, IEEE Transactions on Multimedia, vol. 16, no. 2, pp. 373-386, Feb. 2014.
 % 
 % Contact: yuany@ust.hk, xuqianqian@ict.ac.cn
 %----------------------------------------------------------------------
